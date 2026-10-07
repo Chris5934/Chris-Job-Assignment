@@ -11,8 +11,6 @@ The featured analysis predicts global video game sales using release information
 - `index.qmd` — portfolio landing page
 - `analysis.qmd` — full sample data analysis
 - `gamesales.csv` — video game sales dataset used in the analysis
-- `resume.pdf` — resume
-- `cover-letter.pdf` — cover letter
 - `_quarto.yml` — Quarto website configuration
 
 ## Tools Used

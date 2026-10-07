@@ -18,8 +18,7 @@ For this project, I used a video game sales dataset to predict global sales from
 
 ## Links
 
-- [Resume](resume.pdf)
-- [Cover Letter](cover-letter.pdf)
+- Résumé available on request: [chrissyg298@gmail.com](mailto:chrissyg298@gmail.com)
 - [GitHub](https://github.com/Chris5934)
 
 ## Technical Skills
